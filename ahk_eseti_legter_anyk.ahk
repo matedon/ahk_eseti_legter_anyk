@@ -27,9 +27,6 @@ for index, value in parts {
 	}
 }
 
-MsgBox, % tttText . "_" . textToTabs.length
-
-
 for iii, numberText in textToTabs {
 	;MsgBox, % numberText
 	SendInput, %numberText%
