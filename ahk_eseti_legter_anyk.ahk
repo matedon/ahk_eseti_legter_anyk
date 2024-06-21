@@ -29,6 +29,7 @@ for index, value in parts {
 
 for iii, numberText in textToTabs {
 	;MsgBox, % numberText
+	sleep, 100
 	SendInput, %numberText%
 	ni := iii + 1
 	if (Mod(ni, 2) = 1) {
