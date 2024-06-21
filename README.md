@@ -1,5 +1,8 @@
 ![alt text](ahk_eseti_legter_anyk.jpg)
 
+# Drónos felméréshez keresel segítséget?
+Keress minket a https://sensingdrone.hu oldalon! ;)
+
 # Figyelem!
 A kód működéséért felelősséget nem vállalok! Mindenki saját felelősségére használja!
 
